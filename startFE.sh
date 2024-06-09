@@ -1,2 +1,2 @@
-cd /usr/customapps/pixelstreaming/Frontend/implementations/react
+cd /home/ubuntu/pixelstreaming/implementations/react
 npm run serve

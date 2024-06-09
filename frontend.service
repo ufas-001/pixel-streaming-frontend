@@ -3,7 +3,7 @@ Description=Start frontend server.
 
 [Service]
 Type=simple
-ExecStart=/bin/bash /usr/customapps/pixelstreaming/Frontend/startFE.sh
+ExecStart=/bin/bash /home/ubuntu/pixelstreaming/startFE.sh
 
 [Install]
 WantedBy=multi-user.target
